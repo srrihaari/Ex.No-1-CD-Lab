@@ -6,6 +6,8 @@
 
 # Name : SRI HARI R
 
+# Date: 25/8/2025
+
 # AIM:
 
 To write a C program to implement a symbol table.
